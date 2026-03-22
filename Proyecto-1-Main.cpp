@@ -16,10 +16,10 @@ int main() {
 
     file.close();
 
-    /*ejecutarQuicksort(dataset);
-    std::cout << std::endl;*/
+    ejecutarQuicksort(dataset);
+    std::cout << std::endl;
 
-    //ejecutarHeapsort(dataset);
+    ejecutarHeapsort(dataset);
 
     ejecutarAVL(dataset);
 
