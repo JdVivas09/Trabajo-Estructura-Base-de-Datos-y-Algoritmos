@@ -131,3 +131,15 @@ The **AVL Tree approach**, while theoretically efficient, is less practical for 
 
 ---
 
+## References
+
+* AVL tree data structure. (2023, January 2). *GeeksforGeeks*.
+  [https://www.geeksforgeeks.org/dsa/introduction-to-avl-tree/](https://www.geeksforgeeks.org/dsa/introduction-to-avl-tree/)
+
+* Binary heap. (2014, November 1). *GeeksforGeeks*.
+  [https://www.geeksforgeeks.org/dsa/binary-heap/](https://www.geeksforgeeks.org/dsa/binary-heap/)
+
+* Massachusetts Institute of Technology. (n.d.). *Introduction to Algorithms (Lecture 4)*. Retrieved March 22, 2026, from
+  [https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/8ebfeb1c645b10b3709919603e7d51be_MIT6_006F11_lec04.pdf](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/8ebfeb1c645b10b3709919603e7d51be_MIT6_006F11_lec04.pdf)
+
+---
